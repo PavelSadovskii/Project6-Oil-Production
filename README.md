@@ -1,2 +1,2 @@
-# Project8-Oil-Production
-Вам предоставлены пробы нефти в трёх регионах. Характеристики для каждой скважины в регионе уже известны. Постройте модель для определения региона, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap.
+# Project6-Oil-Production
+You have been provided with oil samples in three regions. The characteristics for each well in the region are already known. Build a model to determine the region where mining will bring the most profit. Analyze possible profits and risks using the Bootstrap technique.
